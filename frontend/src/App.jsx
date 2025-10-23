@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import NewCar from "./pages/NewCar";
 import CarDetail from "./pages/CarDetail";
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import React, { useState } from "react";
 import EditCar from "./pages/EditCar";
 
